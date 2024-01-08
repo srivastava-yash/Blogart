@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../Static/logo.png";
+import logo from "../app/Static/logo.png";
 
 const styles = {
   wrapper: `flex justify-center gap-10 p-5`,

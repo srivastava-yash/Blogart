@@ -1,5 +1,5 @@
-import Header from "./Components/Header";
-import PostCard from "./Components/PostCard";
+import Header from "../Components/Header";
+import PostCard from "../Components/PostCard";
 
 const styles = {
   wrapper: `bg-white h-screen w-screen`,

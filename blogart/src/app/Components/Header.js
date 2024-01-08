@@ -6,7 +6,7 @@ const styles = {
   content: `max-w-7xl flex-1 flex justify-between gap-10`,
   logocontainer: `flex items-center flex-start`,
   logo: `cursor-pointer object-contain`,
-  bannernav: `flex cursor-pointer items-center space-x-5`,
+  bannernav: `flex cursor-pointer items-center space-x-5 text-black`,
   accentedbutton: `bg-black text-white py-2 px-4 rounded-full`,
 };
 

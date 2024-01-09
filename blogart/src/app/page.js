@@ -1,5 +1,5 @@
-import Header from "../Components/Header";
-import PostCard from "../Components/PostCard";
+import Header from "../components/Header";
+import PostCard from "../components/PostCard";
 
 const styles = {
   wrapper: `bg-white h-screen w-screen`,
@@ -15,7 +15,6 @@ export default function Home() {
       <div className={styles.main}>
         <div className={styles.container}>
           <div className={styles.postsList}>
-            <PostCard />
             <PostCard />
             <PostCard />
           </div>

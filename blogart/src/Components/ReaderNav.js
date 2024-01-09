@@ -6,9 +6,9 @@ import { BsPencilSquare } from "react-icons/bs";
 import Image from "next/image";
 
 const styles = {
-  wrapper: `w-[5rem] h-screen flex flex-col justify-between items-center p[1rem] bg-black`,
+  wrapper: `w-screen h-[5rem] flex justify-between items-center p[1rem] bg-white`,
   logoContainer: `cursor-pointer`,
-  iconContainer: `flex-1 flex flex-col justify-center gap-[1.4rem] text-2xl text-[#78787]`,
+  iconContainer: `flex-1 flex justify-center gap-[1.4rem] text-2xl text-black cursor-pointer`,
 };
 
 const ReaderNav = () => {

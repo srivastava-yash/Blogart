@@ -1,8 +1,9 @@
+import ReaderNav from "../../components/ReaderNav";
+
 const Post = () => {
   return (
-    <div>
-      Post Page
-      <div>yuhooo</div>
+    <div className="h-screen w-screen bg-white">
+      <ReaderNav />
     </div>
   );
 };
